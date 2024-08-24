@@ -27,4 +27,6 @@ Docker27.1.1
 作成が間に合いませんでした。
 
 ## URL
-http://localhost お問い合わせフォーム
+http://localhost
+http://localhost/home/amieda/coachtech/laravel/contact-form/src/resources/views/index.blade.php
+phpMyAdmin:http://localhost:8080/
